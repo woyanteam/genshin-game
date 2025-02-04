@@ -13,3 +13,9 @@ vue3 + vue-router + elementUI + pinia + axios
 npm i
 npm run dev
 ```
+
+### todo list
+- [ ] 角色2维骨骼模型
+- [ ] 角色地面吸附
+- [ ] 地图基架
+- [ ] 开发出1.0地图
